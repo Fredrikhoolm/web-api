@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+
+<body>
+    <h1>My react app</h1>
+    <div id="app"></div>
+</body>
+</html><script src="/index.HASH_REF_0a27bbc6100ab3cf71a6d3f3a8f55fb8.js"></script>
